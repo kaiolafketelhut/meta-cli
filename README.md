@@ -1,0 +1,2 @@
+# meta-cli
+rm CLI
